@@ -1,4 +1,4 @@
-# Image-Caption-Generator
+# Image-Caption-Generation
 Image Captioning using Tensorflow on Flickr 8K dataset
 
 Dataset Used: Flickr 8K:
